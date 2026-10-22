@@ -84,7 +84,3 @@ Apartment-Management-System/
    - Web App URL: `http://localhost:5173`
 
 ---
-
-## 🔐 Default Admin Account
-- **Username:** `admin`
-- **Password:** `admin123`
